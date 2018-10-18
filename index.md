@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2018-10-30
 enddate: 2018-10-31
 instructor: ["Samar Elsheikh", "Kenneth Babu", "Mamana Mbiyavanga", "Ziyaad Parker"]
-helper: ["Lyndon Zass"]
+helper: ["Lyndon Zass, You"]
 email: ["ziyaad.parker@uct.ac.za"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
